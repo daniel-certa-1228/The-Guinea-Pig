@@ -1,0 +1,41 @@
+body {
+	background-color: lightgrey;
+}
+
+#output-target {
+	height: 100px;
+	width: 50%;
+	border: 1px solid black;
+	margin: 1em 0;
+	text-align: center;
+}
+
+.blue-text {
+	color: blue;
+}
+
+.text-biggerizer {
+	font-size: 3em;
+}
+
+.border {
+	border: 5px solid aqua;
+}
+
+.radius {
+	border-radius: 100%;
+	padding: 1em;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.block {
+	display: block;
+}
